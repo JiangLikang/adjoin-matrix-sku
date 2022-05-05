@@ -22,17 +22,13 @@
   background-color: #f3f3f3;
   padding: 5px 10px 5px 10px;
   color: #505257;
+  cursor: pointer;
 }
-.specAction {
-  margin-left: 20px;
-  background-color: #fef6f4;
-  padding: 5px 10px 5px 10px;
+.specActive{
   color: #e34a40;
   border: 1px solid #e34a40;
 }
 .specDisabled {
-  margin-left: 20px;
-  background-color: #f3f3f3;
-  padding: 5px 10px 5px 10px;
   color: #bebebe;
+  cursor: not-allowed;
 }
